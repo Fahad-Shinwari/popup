@@ -5,7 +5,7 @@ import GetData from './GetData';
 import ModalPopup from './ModalPopup';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import HeroImage from '../HeroImage';
+import HeroImage from './HeroImage';
 
 
 function Popup() {
